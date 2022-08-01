@@ -24,18 +24,22 @@ Vous pouvez soit :
 * cloner le projet
 * télécharger au format zip
 
+Ensuite 
+* décompresser dans le dossier www de wamp
+* lancer wamp
+* dans le navigateur localhost/panolens-visu-group3
+
 
 ### Démarrage
 
 Ouvrez le dossier décompressé du projet avec votre éditeur de texte.
-Lancer un serveur à partir du dossier ( l'extension Live Server vous permet de le faire )
-Entrer l'adresse du serveur _localhost ou 127.0.0.1_
+Lancer un serveur wamp
+Entrer l'adresse du serveur _localhost/panolens-visu-group3_
 
 ### Fabriqué avec
 
 Ce projet à été réalisé avec:
 
-_exemples :_
 * [panolens.js](https://pchen66.github.io/Panolens) - librairie javascript pour la création de panorama 360° (front-end)
 * [three.js](http://https://threejs.org) - librairie javascript pour la 3D (front-end)
 * [readme](https://gist.github.com/JulienRAVIA/1cc6589cbf880d380a5bb574baa38811#file-readme-template-md) - Template du readme 
@@ -54,7 +58,7 @@ Liste des versions : [Cliquer pour afficher](https://github.com/your/project-nam
 _(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_ -->
 
 ### Auteurs
-Listez le(s) auteur(s) du projet ici !
+
 * **Maël Aramion** _alias_ [@MaelAramion](https://github.com/MaelAramion)
 * **Maxime Jean** _alias_ [@gitMax18](https://github.com/gitMax18)
 * **Brice Courtot** _alias_ [@bcourtot](https://github.com/bcourtot)
